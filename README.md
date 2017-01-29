@@ -1,2 +1,1 @@
-# hs-soko
-cis194
+https://www.seas.upenn.edu/~cis194/fall16/
